@@ -1,5 +1,6 @@
 # sprint12
 # 🎬 Cine-Stream — Sprint 12
+https://sprint12-48wc.vercel.app/
 
 Cine-Stream is a Netflix-inspired movie explorer built with **Next.js, React, Redux Toolkit, and TMDB API**.
 
